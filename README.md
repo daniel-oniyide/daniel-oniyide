@@ -151,7 +151,7 @@
 
   <h3>OniLink</h3>
 
-  <p><code>Your identity. Your design. One tap.</code></p>
+  <p><code>Your Identity. Your Design. Just a tap.</code></p>
 
 </div>
 
@@ -238,7 +238,6 @@
   <li>☁️ Amazon Cloud Computing Virtual Work Experience</li>
   <li>🤖 AI Innovator Programme (ongoing)</li>
   <li>🏢 Aon Work Experience</li>
-  <li>🎓 Principal Award for Integrity 2025</li>
 </ul>
 
 <hr>
