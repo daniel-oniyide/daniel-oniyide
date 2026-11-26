@@ -151,7 +151,7 @@
 
   <h3>OniLink</h3>
 
-  <p><code>Your Identity. Your Design. Just a tap.</code></p>
+  <p><code>Your design. Your link. Just a tap.</code></p>
 
 </div>
 
