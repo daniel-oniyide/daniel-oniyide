@@ -151,6 +151,8 @@
 
   <h3>
     <a href="https://onilink.uk">OniLink</a>
+    <img src="./assets/onilink-badge.svg" alt="Visit OniLink" height="28">
+  </a>
   </h3>
 
   <p>
@@ -198,7 +200,7 @@
 <div align="center">
 
   <a href="https://onilink.uk">
-    <img src="./assets/visit-onilink-badge.svg" alt="Visit OniLink" height="28">
+    <img src="./assets/onilink-badge.svg" alt="Visit OniLink" height="28">
   </a>
 
 </div>
