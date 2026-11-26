@@ -70,71 +70,61 @@
   <h3>Programming Languages</h3>
 
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+    <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" height="28">
   </a>
-
 
   <h3>Development Tools</h3>
-  
-  <a href="https://pandas.pydata.org/">
-  <img src="https://img.shields.io/badge/Pandas-18181b?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28">
-  </a>
-  
-  <a href="https://matplotlib.org/">
-    <img src="./assets/matplotlib-badge.svg" alt="Matplotlib" height="28">
-  </a>
-  
+
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28">
   </a>
-  
+
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" height="28">
   </a>
-  
+
   <a href="https://code.visualstudio.com/">
     <img src="./assets/vscode-badge.svg" alt="Visual Studio Code" height="28">
   </a>
-  
+
   <a href="https://godotengine.org/">
     <img src="https://img.shields.io/badge/Godot-18181b?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot" height="28">
   </a>
 
-
   <h3>Python Libraries</h3>
 
   <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-18181b?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Pandas-18181b?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28">
   </a>
 
   <a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-18181b?style=for-the-badge" alt="Matplotlib">
+    <img src="./assets/matplotlib-badge.svg" alt="Matplotlib" height="28">
   </a>
 
   <h3>Platforms and Services Used in OniLink</h3>
 
   <a href="https://www.cloudflare.com/">
-    <img src="https://img.shields.io/badge/Cloudflare-18181b?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare">
+    <img src="https://img.shields.io/badge/Cloudflare-18181b?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" height="28">
   </a>
 
   <a href="https://developers.cloudflare.com/workers/">
-    <img src="https://img.shields.io/badge/Cloudflare%20Workers-18181b?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare Workers">
+    <img src="https://img.shields.io/badge/Cloudflare%20Workers-18181b?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare Workers" height="28">
   </a>
 
   <a href="https://pages.cloudflare.com/">
-    <img src="https://img.shields.io/badge/Cloudflare%20Pages-18181b?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare Pages">
+    <img src="https://img.shields.io/badge/Cloudflare%20Pages-18181b?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare Pages" height="28">
   </a>
 
   <a href="https://developers.cloudflare.com/d1/">
-    <img src="https://img.shields.io/badge/Cloudflare%20D1-18181b?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare D1">
+    <img src="https://img.shields.io/badge/Cloudflare%20D1-18181b?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare D1" height="28">
   </a>
 
   <a href="https://stripe.com/">
-    <img src="https://img.shields.io/badge/Stripe-18181b?style=for-the-badge&logo=stripe&logoColor=635BFF" alt="Stripe">
+    <img src="https://img.shields.io/badge/Stripe-18181b?style=for-the-badge&logo=stripe&logoColor=635BFF" alt="Stripe" height="28">
   </a>
 
   <a href="https://resend.com/">
-    <img src="https://img.shields.io/badge/Resend-18181b?style=for-the-badge&logo=resend&logoColor=white" alt="Resend">
+    <img src="https://img.shields.io/badge/Resend-18181b?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" height="28">
   </a>
 
 </div>
@@ -155,13 +145,17 @@
 
 <hr>
 
-<h2>Featured Project</h2>
+<h2>Featured Projects</h2>
 
 <div align="center">
 
-  <h3>OniLink</h3>
+  <h3>
+    <a href="https://onilink.uk">OniLink</a>
+  </h3>
 
-  <p><code>Your design. Your link. Just a tap.</code></p>
+  <p>
+    <code>Your identity. Your design. One tap.</code>
+  </p>
 
 </div>
 
@@ -178,7 +172,7 @@
   infrastructure, automation, cybersecurity and business management.
 </p>
 
-<h3>Technical Infrastructure</h3>
+<h4>Technical Infrastructure</h4>
 
 <ul>
   <li>E-commerce and order management infrastructure</li>
@@ -190,7 +184,7 @@
   <li>Website security, accessibility and optimisation</li>
 </ul>
 
-<h3>Development Roadmap</h3>
+<h4>Development Roadmap</h4>
 
 <ul>
   <li>Enhanced customer experience and order tracking</li>
@@ -204,37 +198,134 @@
 <div align="center">
 
   <a href="https://onilink.uk">
-    <img src="./assets/onilink-badge.svg" alt="Visit OniLink" height="28">
+    <img src="./assets/visit-onilink-badge.svg" alt="Visit OniLink" height="28">
+  </a>
+
+</div>
+
+<br>
+
+<h3>
+  <a href="https://github.com/knownnda/Hyperattack">Hyperattack</a>
+</h3>
+
+<p>
+  🏆 <strong>First Place | Hack Club Haven London 2026</strong>
+</p>
+
+<p>
+  A competitive two-player arena game developed using Godot 
+  within a single day as part of a five-person team. 
+  The game features a ball that progressively increases in 
+  speed with each successful hit.
+</p>
+
+<ul>
+  <li>Collaborative game development</li>
+  <li>GitHub version control</li>
+  <li>Game mechanics and iterative testing</li>
+  <li>Problem-solving under time constraints</li>
+  <li>Teamwork and technical communication</li>
+</ul>
+
+<div align="center">
+
+  <a href="https://github.com/knownnda/Hyperattack">
+    <img src="https://img.shields.io/badge/View%20Project-18181b?style=for-the-badge&logo=github&logoColor=white" alt="View Hyperattack" height="28">
+  </a>
+
+</div>
+
+<br>
+
+<h3>
+  <a href="https://github.com/daniel-oniyide/UK-Vehicle-Registration-Checker">
+    UK Vehicle Registration Checker
+  </a>
+</h3>
+
+<p>
+  A Python-based application designed to validate UK vehicle 
+  registration plates and extract relevant registration information.
+</p>
+
+<h4>Key Features</h4>
+
+<ul>
+  <li>UK vehicle registration format validation</li>
+  <li>Regional identifier validation</li>
+  <li>Registration year and vehicle age calculations</li>
+  <li>Example registration plate generation</li>
+  <li>Input validation and error handling</li>
+</ul>
+
+<h4>Technical Skills</h4>
+
+<ul>
+  <li>Python programming</li>
+  <li>Conditional statements and control structures</li>
+  <li>String manipulation</li>
+  <li>Functions and modular programming</li>
+  <li>Validation and problem-solving</li>
+</ul>
+
+<div align="center">
+
+  <a href="https://github.com/daniel-oniyide/UK-Vehicle-Registration-Checker">
+    <img src="https://img.shields.io/badge/View%20Project-18181b?style=for-the-badge&logo=github&logoColor=white" alt="View UK Vehicle Registration Checker" height="28">
   </a>
 
 </div>
 
 <hr>
 
-<h2>Other Projects</h2>
+<h2>Other Python Projects</h2>
 
-<h3>Hyperattack</h3>
+<h3>Stock Analytics Tool</h3>
 
 <p>
-  A two-player competitive arena game developed using Godot 
-  as part of a five-person team during Hack Club Haven London 2026.
-  The project achieved first place in the competition.
+  A collaborative, menu-driven Python application focused on 
+  cleaning, combining, analysing and visualising historical 
+  stock price data using Pandas and Matplotlib.
 </p>
 
 <ul>
-  <li>Collaborative game development</li>
-  <li>GitHub version control</li>
-  <li>Problem-solving and iterative testing</li>
-  <li>Working within a time-constrained development environment</li>
+  <li>CSV data processing</li>
+  <li>Data cleaning and missing value handling</li>
+  <li>Data analysis and visualisation</li>
+  <li>Collaborative software development</li>
 </ul>
 
-<h3>Python Development Projects</h3>
+<p>
+  <i>Academic group project currently in development.</i>
+</p>
+
+<h3>Grocery Inventory Management System</h3>
+
+<p>
+  A Python-based inventory management application designed 
+  to manage grocery products and their associated information.
+</p>
 
 <ul>
-  <li>Vehicle registration validation system</li>
-  <li>Grocery store inventory management system</li>
-  <li>Library management system</li>
-  <li>Stock market data analysis and visualisation</li>
+  <li>Adding, updating and searching inventory records</li>
+  <li>Tracking product expiration dates</li>
+  <li>Calculating total inventory value</li>
+  <li>Numerical and date input validation</li>
+</ul>
+
+<h3>Library Management System</h3>
+
+<p>
+  A dictionary-based Python application designed to manage 
+  book information and library availability.
+</p>
+
+<ul>
+  <li>Adding and searching book records</li>
+  <li>Checking and updating book availability</li>
+  <li>Filtering books by genre</li>
+  <li>Dictionary manipulation and input validation</li>
 </ul>
 
 <hr>
@@ -248,6 +339,7 @@
   <li>☁️ Amazon Cloud Computing Virtual Work Experience</li>
   <li>🤖 AI Innovator Programme (ongoing)</li>
   <li>🏢 Aon Work Experience</li>
+  <li>🎓 Principal Award for Integrity 2025</li>
 </ul>
 
 <hr>
@@ -291,7 +383,9 @@
 
 <div align="center">
 
-  <h3><code>Stay blessed.</code></h3>
+  <h3>
+    <code>Stay blessed.</code>
+  </h3>
 
   <p>
     <i>Build technology. Understand technology. Secure technology.</i>
