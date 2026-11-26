@@ -12,7 +12,7 @@
   <p>📍 <strong>London, UK</strong></p>
 
   <a href="https://onilink.uk">
-    <img src="./assets/onilink-badge.svg" alt="OniLink" height="45">
+    <img src="./assets/onilink-badge.svg" alt="OniLink" height="80">
   </a>
 
 </div>
@@ -151,7 +151,7 @@
 
   <h3>
   <a href="https://onilink.uk">
-    <img src="./assets/onilink-badge.svg" alt="OniLink" height="28">
+    <img src="./assets/onilink-badge.svg" alt="OniLink" height="80">
   </a>
   </h3>
 
