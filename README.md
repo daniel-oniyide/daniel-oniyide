@@ -73,23 +73,33 @@
     <img src="https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
   </a>
 
+
   <h3>Development Tools</h3>
-
+  
+  <a href="https://pandas.pydata.org/">
+  <img src="https://img.shields.io/badge/Pandas-18181b?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28">
+  </a>
+  
+  <a href="https://matplotlib.org/">
+    <img src="./assets/matplotlib-badge.svg" alt="Matplotlib" height="28">
+  </a>
+  
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28">
   </a>
-
+  
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+    <img src="https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" height="28">
   </a>
-
+  
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-18181b?style=for-the-badge" alt="Visual Studio Code">
+    <img src="./assets/vscode-badge.svg" alt="Visual Studio Code" height="28">
+  </a>
+  
+  <a href="https://godotengine.org/">
+    <img src="https://img.shields.io/badge/Godot-18181b?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot" height="28">
   </a>
 
-  <a href="https://godotengine.org/">
-    <img src="https://img.shields.io/badge/Godot-18181b?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot">
-  </a>
 
   <h3>Python Libraries</h3>
 
